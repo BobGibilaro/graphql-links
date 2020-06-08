@@ -22,10 +22,12 @@ The following are specific to GraphQL
     - [Part - VI: Queries & Mutations](https://fiyazhasan.me/graphql-with-net-core-part-vi-queries-and-mutations/)
     - [Part - VII: Data Persistence](https://fiyazhasan.me/graphql-with-net-core-part-vii-data-persistence/)
     - [GitHub Repo For Article Series](https://github.com/fiyazbinhasan/GraphQLCore/tree/master)
+- [Build a GraphQL API with ASP.NET Core And Okta Authentication](https://developer.okta.com/blog/2019/04/16/graphql-api-with-aspnetcore)
 - [API Development In .NET With GraphQL](https://www.linkedin.com/learning/api-development-in-dot-net-with-graphql)
 - [Generic data loaders for Entity Framework in GraphQL](https://corstianboerman.com/posts/2019-02-12/generic-data-loaders-for-entity-framework-in-graphql.html)
 - [Implementing pagination with GraphQL .NET and Relay](https://corstianboerman.com/2019-03-08/implementing-pagination-with-graphql-net-and-relay.html)
 - [Creating GraphQL APIs with ASP.NET Core for Beginners](https://www.udemy.com/course/creating-graphql-apis-with-aspnet-core-for-beginners/)
+- [Intro to GraphQL for .NET Developers: Schema, Resolver, and Query Language](https://www.codemag.com/Article/1909061/Intro-to-GraphQL-for-.NET-Developers-Schema-Resolver-and-Query-Language)
 
 
 ## Tools/Utilities
