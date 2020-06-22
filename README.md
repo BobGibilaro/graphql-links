@@ -13,6 +13,7 @@ The following are specific to GraphQL
 ## Tutorials/Training
 
 - [Learning GraphQL](https://www.linkedin.com/learning/learning-graphql)
+- [Exploring GraphQL: A Query Language for APIs](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
 - GraphQL with .NET (Article Series)
     - [Part - I: Hello World](https://fiyazhasan.me/graphql-with-net-core-part-i/)
     - [Part - II: Middleware](https://fiyazhasan.me/graphql-with-net-core-part-ii-middleware/)
